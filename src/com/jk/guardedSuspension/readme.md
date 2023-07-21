@@ -1,0 +1,1 @@
+Guarded Suspension(守卫 暂停设计模式)
